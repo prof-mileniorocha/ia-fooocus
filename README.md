@@ -1,0 +1,2 @@
+# ia-fooocus
+Repositório Fooocus.
